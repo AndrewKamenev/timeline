@@ -238,3 +238,14 @@ h2 {
         top: 50px;
         left: -20px;
         background: #473a5a; } }
+@media all and (min-width: 1170px) {
+  .t-step:after {
+    width: 180px;
+  }
+  .t-text {
+    width: 310px; }
+  
+  .t-text-main {
+    
+    padding-right: 20%; }
+}
